@@ -1,7 +1,7 @@
 Though I am not a professional developer, I have included a sample of my code for your review; I hope you will view it as I do, as a starting point from which to build.  
 
-The applicaton is a simple currency converter written in the Racket programming language.  It should automatically open a connection at the local port when run in Dr. Racket--the model will remain persistent throughout browsing sessions, but will reset once Dr. Racket has been turned off.  The application converts a quantity in one currency to another and allows users to add new currencies to its database.
+The application is a simple currency converter written in the Racket programming language.  It should automatically open a connection at the local port when run in Dr. Racket--the model will remain persistent throughout browsing sessions, but will reset once Dr. Racket has been turned off.  The application converts a quantity in one currency to another and allows users to add new currencies to its database.
 
 I wrote the project to better understand the basics of web-programming.  I drew heavily off a tutorial on web-programming in Racket that can be found here http://docs.racket-lang.org/continue/  Creating a application while working through the tutorial greatly increased my understanding of the material covered. 
 
-In a way, I am proud of my little applicaton.  It does its job, and without breaking.  This was the largest program I ever wrote, and I did feel a sense of satisfaction as I worked through the problem, building an increasingly complex structure peice by peice.  
+In a way, I am proud of my little application.  It does its job, and without breaking.  This was the largest program I ever wrote, and I did feel a sense of satisfaction as I worked through the problem, building an increasingly complex structure piece by piece.
