@@ -109,4 +109,4 @@
          curr-unit curr-rat curr-master 
          initalize-master! master-currency-convert! master-currency-insert!
          select-new-unit select-old-quantity select-old-unit 
-         currency-convert make-money clear-conversions select-new-quantity)
+         currency-convert currency-convert-store make-money clear-conversions select-new-quantity)
