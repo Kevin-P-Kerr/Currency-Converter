@@ -1,7 +1,4 @@
-Though I am not a professional developer, I have included a sample of my 
-code for your review; I hope you will view it as I do, as a starting point 
-from which to build.  
-
+ 
 The application is a simple currency converter written in the Racket 
 programming language.  It should automatically open a connection at the 
 local port when run in Dr. Racket--the model will remain persistent 
@@ -15,8 +12,5 @@ here http://docs.racket-lang.org/continue/  Creating a application while
 working through the tutorial greatly increased my understanding of the 
 material covered. 
 
-In a way, I am proud of my little application.  It does its job, and without 
-breaking.  This is the largest program I have yet written, and I did feel a 
-sense of satisfaction as I worked through the problem, building an 
-increasingly complex structure piece by piece.
+
 
